@@ -21,12 +21,38 @@ I created this repository to maintain a centralized and transparent collection o
 ## Certificates
 Certificates will be organized and uploaded here for easy access.
 
-Example structure:
+### Structure:
+
 ```bash
 Achievements/
-├── Competition/
-├── Web Development/
-├── AI-ML/
-├── Hackathons/
-├── Cloud/
-└── Academic/
+├── Competitive-Programming/
+│   └── TCS-CodeVita-Global-Rank-123.jpeg
+│
+├── Competitive-Programming/
+│   └── TCS-Selection-Letter.png
+│
+├── Research-and-Conferences/
+│   ├── IEEE-Conference-Presentation.jpeg
+│   ├── Best-Paper-Award-RTSET-2025.jpeg
+│   ├── Conference-Participation-RTSET-2025.jpeg
+│   ├── GTSS-2026-Presentation.jpeg
+│   └── BookMyDoc-Conference-Achievement.jpeg
+│
+├── Internships/
+│   ├── HyperCloud-Internship-Certificate.jpeg
+│   └── Rising-Star-Performance-Recognition.jpeg
+│
+├── Certifications/
+│   └── Infosys-Artificial-Intelligence-Certificate.jpeg
+│
+├── Academic-Achievements/
+│   ├── First-Year-Academic-Excellence.jpeg
+│   ├── Third-Year-Academic-Excellence.jpeg
+│   └── Buddha-Star-Award.jpeg
+│
+├── Innovation-and-Hackathons/
+│   ├── TechYuva-Runner-Up-BookMyDoc.jpeg
+│   ├── TechYuva-Runner-Up-Angle270.jpeg
+│   └── TechYuva-Participation-TransitXpert.jpeg
+│
+└── README.md
